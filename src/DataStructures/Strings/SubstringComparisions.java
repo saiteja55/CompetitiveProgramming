@@ -1,4 +1,4 @@
-package Strings;
+package DataStructures.Strings;
 
 import java.util.Scanner;
 
